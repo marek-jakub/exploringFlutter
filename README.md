@@ -4,7 +4,7 @@ This is a collection of widgets explored during book reading or research into us
 
 ## rose
 
-The 'rose' directory contains widgets explored during reading of:
+The 'rose' directory contains widgets explored during the reading of:
 
 Rose, R. (2023) Flutter and Dart Cookbook: developing full-stack applications for the cloud. Sebastopol: O’Reilly Media.
 
